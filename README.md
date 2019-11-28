@@ -39,7 +39,6 @@ Para cada caso de teste de entrada deve ser impresso um valor inteiro que determ
 ![AC](./IMG/AC.png)
 
 ## Instalação 
-------------
 Para rodar a questão 1286 Accepted
 
 ```
