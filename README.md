@@ -45,3 +45,7 @@ Para rodar a questão 1286 Accepted
     g++ Motoboy.cpp
     ./a.out
 ```
+
+## Tabela com preenchimento recursivo do caso de teste
+
+![knapsack](knapsack.jpg)
